@@ -1,0 +1,8 @@
+@import '_reset';
+// @import component/header;
+.test{
+    background-color: #fff;
+    &:hover{
+        background-color: #000; 
+    }
+}
